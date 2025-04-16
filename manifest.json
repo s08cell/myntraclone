@@ -1,20 +1,20 @@
 {
     "name":"Myntra clone",
-    "short_name":"PWA",
+    "short_name":"Myntra",
     "start_url":"index.html",
     "display":"standalone",
-    "background_color":"#5900b3",
-    "theme_color":"black",
+    "background_color":"#ffffff",
+    "theme_color":"white",
     "scope": ".",
     "description":"This is a PWA tutorial.",
     "icons":[
     {
-    "src":"my_app_logo.png",                     
+    "src":"./reduce_logo.png",                     
     "sizes":"192x192",
     "type":"image/png"
     },
     {
-    "src":"images/icon-512x512.png",
+    "src":"./reduce_logo_2.0.png",
     "sizes":"512x512",
     "type":"image/png"
     }
